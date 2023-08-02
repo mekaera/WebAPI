@@ -1,0 +1,13 @@
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\melih.ermekin\source\repos\Deneme\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
