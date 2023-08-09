@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vp6JVCAyMFWaPMjk79X0FcSS+cXAp06zb3nQ2DtnfR6zUaK+6FLC7Rtaj+99AYI2pkNIkkaKL8gBKVRU/l1LpA==",
+  "dgSpecHash": "IHW8RS+8PnJriL4296yQX/2y1UGrHGv5fIaX8HgDzJwYSJAW8cVOLSuqf2XVr5ihj40aBaSqxhU3T1bk4Gwddg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

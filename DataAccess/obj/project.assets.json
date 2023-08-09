@@ -6455,11 +6455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\melih.ermekin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melih.ermekin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6476,11 +6476,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Core\\Core.csproj"
+            "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Core\\Core.csproj"
             },
-            "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Entities\\Entities.csproj"
+            "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6517,7 +6517,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

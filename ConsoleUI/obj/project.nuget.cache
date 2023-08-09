@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vRO6FDFqvWbBM+GunLq7KSQtjYdXKL8ZNtz+3NwwOc5XEn4GDOaEP76QrtySyAFU4a2jozmjcP4jIq3ydJhgg==",
+  "dgSpecHash": "HxsS0zUSwWvdswa3rYdDWc0IHoTIxE9czZZyg8ShUNkk4NXjUuF5IiB6pvjgZOyb0l7aYTL4cW8vSFGY2vIpxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
@@ -101,7 +101,11 @@
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\melih.ermekin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\melih.ermekin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\melih.ermekin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\melih.ermekin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }

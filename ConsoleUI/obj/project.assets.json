@@ -5957,11 +5957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\melih.ermekin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melih.ermekin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5978,14 +5978,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Business\\Business.csproj"
+            "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Business\\Business.csproj"
             },
-            "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\melih.ermekin\\source\\repos\\Deneme\\Entities\\Entities.csproj"
+            "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\melih.ermekin\\Documents\\GitHub\\WebAPI\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6010,12 +6010,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
